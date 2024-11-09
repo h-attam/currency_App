@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(assets/images/ekonomist_image_84__c18b9f7d427e44.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
